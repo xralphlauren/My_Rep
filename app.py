@@ -11,3 +11,5 @@ if len(a) > 5:
 print('i say hello')
 
 print('respect')
+
+print(a)
